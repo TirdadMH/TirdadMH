@@ -10,16 +10,17 @@
 <h3>Languages:</h3>
 <p> 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' alt="C++" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt="C++" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="C++" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="C++" width="40" height="40"/>&nbsp;
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="C++" width="40" height="40"/>&nbsp;
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' alt="C" width="40" height="40"/>&nbsp;
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' alt="php" width="40" height="40"/>&nbsp;
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg' alt="kotlin" width="40" height="40"/>&nbsp;
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' alt="java" width="40" height="40"/>&nbsp;
 </p>
 
   <h3>Frameworks & Libraries:</h3>
   <p>
-    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg' alt="Vue.js" width="40" height="40"/>&nbsp;
-
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg' alt="laravel" width="40" height="40"/>&nbsp;
+    <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg' alt="unrealengine" width="40" height="40"/>&nbsp;
+  </p>
 
 ## 📊 GitHub Stats:
 
